@@ -2,3 +2,5 @@
 confidential/
 # Environment overrides
 hotel-booking-agent-autogen-agent-iam/assistant-agent/.env
+hotel-booking-agent-autogen-agent-iam/backend/.env
+hotel-booking-agent-autogen-agent-iam/frontend/.env
