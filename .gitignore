@@ -1,2 +1,4 @@
 # Ignore local confidential assets
 confidential/
+# Environment overrides
+hotel-booking-agent-autogen-agent-iam/assistant-agent/.env
